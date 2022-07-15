@@ -1,0 +1,13 @@
+body {
+    background-color: blueviolet;
+}
+
+img{
+    width: 100px;
+    height:100px;
+}
+
+.login_div{
+    text-align:center;
+    width:100%;
+}
